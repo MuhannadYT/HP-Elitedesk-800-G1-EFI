@@ -4,9 +4,9 @@
     <dict>
         <key>#Info</key>
         <dict>
-            <key>Originaly By 5T33Z0
-			Updated and Fixed By MuhannadYT</key>
+            <key>Originaly By 5T33Z0 Updated and Fixed By MuhannadYT</key>
             <string>https://github.com/5T33Z0</string>
+			<key>Github ^ v</key>
 			<string>https://github.com/MuhannadYT</string>
             <key>Notes</key>
             <string>Use CPUFriendFriend to generate a custom CPUFriendDataProvider.kext. Check enabled kexts before deployment!</string>
