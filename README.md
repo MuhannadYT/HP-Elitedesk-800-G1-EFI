@@ -51,7 +51,7 @@ Update bios to the latest version and set to default settings then follow
 | 3. | Setup SMBIOS [Follow this Part of the Guide](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#using-gensmbios) enter `Macmini8,1 10` in GenSMBIOS|
 | 4. | [continue that guide from here](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#serial-number-validity)|
 | 5. | After you have replaced the SMBIOS files boot from the USB, Format your ssd, and install MacOS|
-| 6. | Once MacOS is installed, download [OpenCore Legacy Patcher (OpenCore-Patcher-GUI.app.zip)](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/0.6.7)|
+| 6. | Once MacOS is installed, download [OpenCore Legacy Patcher (OpenCore-Patcher-GUI.app.zip)](https://github.com/dortania/OpenCore-Legacy-Patcher/releases)|
 | 7. | Click "Post install root patch" then click "start root patching" (this will be used to install the gpu drivers)|
 | 8. | Select reset nvram from the boot menu (of OC) and boot into MacOS|
 
